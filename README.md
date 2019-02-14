@@ -31,40 +31,76 @@ See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01
 
 ## BOM
 Frame	
-1,00	Ramps Kit 1.4 (https://www.aliexpress.com/item/3D-Printer-1pc-Mega-2560-R3-1pc-RAMPS-1-4-control-panel-5pcs-DRV8825-Stepper-Motor/32599773680.html)
-1,00	Ramps SD Card Reader(https://www.aliexpress.com/item/New-TF-SD-Card-SD-Ramps-3D-Printer-Assembling-Module-For-Ramps-1-4-Diy-Kit/32958286211.html)
-2,00	10x10 Drag chain 2 Meters (https://www.aliexpress.com/item/Drag-Chain-L1000mm-Transmission-Chains-10-x-10mm-Cable-Wire-Carrier-with-end-connectors-for-CNC/32852286371.html)
+1,00	Ramps Kit 1.4
+
+1,00	Ramps SD Card Reader
+
+2,00	10x10 Drag chain 2 Meters 
+
 1,00	V-Slot 1200mm (horizontal carriage rail)
+
 2,00	Alu-Profile 2080 1200mm (Two vertical risers )
+
 2,00	Alu-Profile 2080 1160mm (Lower brace, shelf for bar mat)
+
 1,00	Alu-Profile 2040, 1200mm (Horizontal rail for drag chain)
+
 2,00	Alu-Profile 2040 600mm (Horizontal legs)
+
 1,00	V-Slot® NEMA 17 Linear Actuator Bundle 500mm
+
 1,00	V-Slot Gantry Set , 20mm - 80mm (Universal)
+
 1,00	Motor Mount Plate Nema17
+
 2,00	GT2-2m Timing Belt  (per Meter)
+
 2,00	Black Angle Corner Connector
+
 3,00	M5*8 Low Profile Screws (10 pcs/pack)
+
 1,00	M5*40 Low Profile Screws (10 pcs/pack)
+
 1,00	M5*25 Low Profile Screws (10 pcs/pack)
+
 1,00	3mm Aluminium Spacer
+
 1,00	6mm Aluminium Spacer
+
 1,00	Tee Nuts  M5 (10 pcs/pack)
+
 1,00	Drop in Tee Nuts  M5
+
 1,00	Nylon Insert Hex Locknut M5 (10 pcs/pack)
+
 2,00	1250mm Slot Cover /Panel Holder
+
 2,00	Bar Mat
+
 	
 Control Box	
+
 4,00	Alu-Profile 2020 530mm (All with 5mm threaded ends)
+
 5,00	Alu-Profile 2020 165mm (All with 5mm threaded ends)
+
 4,00	Alu-Profile 2020 130mm (All with 5mm threaded ends)
+
 8,00	Cube Corner
+
 2,00	M5*15 Low Profile Screws (10 pcs/pack)
-1,00	Coin Acceptor (Or similar if you modify the lower lasercut panel to fit)
+
+1,00	Coin Acceptor 
+
 2,00	27x27 Illuminated Arcade Buttons (min lot 20 pcs)
+
 1,00	22mm Emergency Stop Push Button Switch 12V DC LED Illuminated (or similar)
+
 1,00	22mm Key Selector Switch
+
 1,00	Power Socket Switch IEC 320 C14
+
 1,00	12v Power Supply, 150w (Part No. MS-150-12 or similar)
+
 1,00	 Ribbon cable to 18 pin connector 40CM long
+
