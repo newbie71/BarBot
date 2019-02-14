@@ -30,7 +30,7 @@ See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01
   *Guide and SolidWorks CAD drawings courtesy of [Vexelius](https://www.thingiverse.com/Vexelius/).*
 
 ## BOM
-Frame
+### Frame
 
 1,00	Ramps Kit 1.4
 
@@ -78,10 +78,7 @@ Frame
 
 2,00	Bar Mat
 
-
-
-Control Box
-
+#### Control Box
 
 4,00	Alu-Profile 2020 530mm (All with 5mm threaded ends)
 
