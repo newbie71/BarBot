@@ -1,6 +1,5 @@
 # BarBot fork from sexycyborg
 An Automated Bartender powered by Arduino  
-<img src="https://imgur.com/1c3MjcF.jpg" width="800" height="454" alt="BarBot">
 
 Based on the work of Lukas Šidlauskas:  
 https://create.arduino.cc/projecthub/sidlauskas/barbot-cocktail-mixing-robot-0318aa  
@@ -31,86 +30,41 @@ See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01
   *Guide and SolidWorks CAD drawings courtesy of [Vexelius](https://www.thingiverse.com/Vexelius/).*
 
 ## BOM
-[RAMPS 1.6 kit](https://www.aliexpress.com/item/Mega-2560-R3-1Pcs-RAMPS-1-4-1-5-1-6-Controller-5Pcs-A4988-Stepper/32964198232.html?)
-
-1x [RAMPS 1.4/1.5 SD Card Reader](http://amzn.to/2EYiyeb)
-
-[10x10 Drag Chain](http://amzn.to/2ECHM3W)  
- 2 Meters 
-
-[V-Slot® 20x80 Linear Rail](http://openbuildspartstore.com/v-slot-20x80-linear-rail/)  
- 3x1200mm (Two vertical risers and one horizontal carriage rail)  
- 2x1160mm (Lower brace, shelf for bar mat)
-
-[V-Slot® 20x40 Linear Rail](http://openbuildspartstore.com/v-slot-20x40-linear-rail/)  
-1x 1200mm (Horizontal rail for drag chain)  
-2x 600mm (Horizontal legs)
-
-1x [V-Slot® NEMA 17 Linear Actuator Bundle](http://openbuildspartstore.com/v-slot-nema-17-linear-actuator-bundle-lead-screw/)  
-500mm (400mm is better if you can get it or make it yourself)
-
-1x [V-Slot Gantry Set](http://openbuildspartstore.com/v-slot-gantry-set/)  
-20mm - 80mm (Universal)  
-Delrin Solid V Wheels
-
-1x [Motor Mount Plate - NEMA 17 Stepper Motor](http://openbuildspartstore.com/motor-mount-plate-nema-17-stepper-motor/)
-
-1x [Idler Pulley Plate](http://openbuildspartstore.com/idler-pulley-plate/)
-
-1x [Smooth Idler Pulley Kit](http://openbuildspartstore.com/smooth-idler-pulley-kit/)  
-
-[GT2-2M Timing Belt](http://openbuildspartstore.com/gt2-2m-timing-belt/)  
-3 Meters
-
-1x [GT2-2M Timing Pulley - 20 Tooth](http://openbuildspartstore.com/gt2-2m-timing-pulley-20-tooth/)
-
-2x [NEMA 17 Stepper Motor](http://openbuildspartstore.com/nema-17-stepper-motor/)  
-
-30x [Black Angle Corner Connector](http://openbuildspartstore.com/black-angle-corner-connector/)
-
-[Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)  
-60x M5\*8  
-4x M5\*40  
-6x M5\*25  
-4x M5\*15  
-
-[Aluminum Spacer](http://openbuildspartstore.com/aluminum-spacers/)  
-4x 3mm  
-4x 6mm 
-
-50x [Tee Nuts](http://openbuildspartstore.com/tee-nuts-25-pack/)
-
-50x [Drop In Tee Nuts](http://openbuildspartstore.com/drop-in-tee-nuts/) 
-
-30x [Nylon Insert Hex Locknut - M5](http://openbuildspartstore.com/nylon-insert-hex-locknut-m5/)  
-
-[Slot Cover™ / Panel Holder](http://openbuildspartstore.com/slot-cover-panel-holder/)  
-1250mm
-
-2x [Bar mat](http://amzn.to/2Eo2QvR)
-
-#### Control Box
-[V-Slot® 20x20 Linear Rail](http://openbuildspartstore.com/v-slot-20x20-linear-rail/)  
-530mm x 4  
-165mm x 5  
-130mm x 4  
-(All with 5mm threaded ends)
-
-8x [Cube Corner Connector](http://openbuildspartstore.com/cube-corner-connector/)  
-
-25x M5*15 [Openbuilds Low Profile Screws](http://openbuildspartstore.com/low-profile-screws-m5/)
-
-1x [Coin Acceptor](https://item.taobao.com/item.htm?id=540305747207)  
-(Or similar if you modify the lower lasercut panel to fit)  
-
-16x [27x27 Illuminated Arcade Buttons](https://www.aliexpress.com/store/product/27-27mm-quadrate-LED-Light-Illuminated-Full-Colors-Push-Button-With-Micro-Switch-Master-Arcade-DIY/1960309_32559164401.html)
-
-1x [22mm Emergency Stop Push Button Switch 12V DC LED Illuminated (or similar)](http://amzn.to/2Chvvgb)
-
-1x [22mm Key Selector Switch](http://amzn.to/2ErJs0M)
-
-1x [Power Socket Switch IEC 320 C14](http://amzn.to/2HcuYjs)
-
-1x [12v Power Supply, 150w (Part No. MS-150-12 or similar)](https://www.aliexpress.com/item/MS-150-12-mini-size-12-5a-led-psu-150w-12v-power-supply/32663431069.html)
-
-1x [Ribbon cable to 18 pin connector 40CM long (Optional but helpful)](https://item.taobao.com/item.htm?id=520267411024)
+Frame	
+1,00	Ramps Kit 1.4 (https://www.aliexpress.com/item/3D-Printer-1pc-Mega-2560-R3-1pc-RAMPS-1-4-control-panel-5pcs-DRV8825-Stepper-Motor/32599773680.html)
+1,00	Ramps SD Card Reader(https://www.aliexpress.com/item/New-TF-SD-Card-SD-Ramps-3D-Printer-Assembling-Module-For-Ramps-1-4-Diy-Kit/32958286211.html)
+2,00	10x10 Drag chain 2 Meters (https://www.aliexpress.com/item/Drag-Chain-L1000mm-Transmission-Chains-10-x-10mm-Cable-Wire-Carrier-with-end-connectors-for-CNC/32852286371.html)
+1,00	V-Slot 1200mm (horizontal carriage rail)
+2,00	Alu-Profile 2080 1200mm (Two vertical risers )
+2,00	Alu-Profile 2080 1160mm (Lower brace, shelf for bar mat)
+1,00	Alu-Profile 2040, 1200mm (Horizontal rail for drag chain)
+2,00	Alu-Profile 2040 600mm (Horizontal legs)
+1,00	V-Slot® NEMA 17 Linear Actuator Bundle 500mm
+1,00	V-Slot Gantry Set , 20mm - 80mm (Universal)
+1,00	Motor Mount Plate Nema17
+2,00	GT2-2m Timing Belt  (per Meter)
+2,00	Black Angle Corner Connector
+3,00	M5*8 Low Profile Screws (10 pcs/pack)
+1,00	M5*40 Low Profile Screws (10 pcs/pack)
+1,00	M5*25 Low Profile Screws (10 pcs/pack)
+1,00	3mm Aluminium Spacer
+1,00	6mm Aluminium Spacer
+1,00	Tee Nuts  M5 (10 pcs/pack)
+1,00	Drop in Tee Nuts  M5
+1,00	Nylon Insert Hex Locknut M5 (10 pcs/pack)
+2,00	1250mm Slot Cover /Panel Holder
+2,00	Bar Mat
+	
+Control Box	
+4,00	Alu-Profile 2020 530mm (All with 5mm threaded ends)
+5,00	Alu-Profile 2020 165mm (All with 5mm threaded ends)
+4,00	Alu-Profile 2020 130mm (All with 5mm threaded ends)
+8,00	Cube Corner
+2,00	M5*15 Low Profile Screws (10 pcs/pack)
+1,00	Coin Acceptor (Or similar if you modify the lower lasercut panel to fit)
+2,00	27x27 Illuminated Arcade Buttons (min lot 20 pcs)
+1,00	22mm Emergency Stop Push Button Switch 12V DC LED Illuminated (or similar)
+1,00	22mm Key Selector Switch
+1,00	Power Socket Switch IEC 320 C14
+1,00	12v Power Supply, 150w (Part No. MS-150-12 or similar)
+1,00	 Ribbon cable to 18 pin connector 40CM long
