@@ -28,8 +28,11 @@ This BarBot was designed to be easy to build with off-the-shelf OpenBuilds compo
 <img src="https://i.imgur.com/Lqtft5d.jpg" width="800" height="565" alt="BarBot"><BR>
 See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01.PDF). 
   *Guide and SolidWorks CAD drawings courtesy of [Vexelius](https://www.thingiverse.com/Vexelius/).*
+ 
+ 
+ 
 
-## Attention this BOM variats from the Sexyborg due to hifh cost's from openbuilds-store  
+## Attention this BOM variats from the Sexyborg due to high cost's and shipment from openbuilds-store  
 ### All sources including prices can be found in the BOM Excel-sheet
 
 
