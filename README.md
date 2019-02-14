@@ -29,78 +29,82 @@ This BarBot was designed to be easy to build with off-the-shelf OpenBuilds compo
 See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01.PDF). 
   *Guide and SolidWorks CAD drawings courtesy of [Vexelius](https://www.thingiverse.com/Vexelius/).*
 
+## Attention this BOM variats from the Sexyborg due to hifh cost's from openbuilds-store  
+### All sources including prices can be found in the BOM Excel-sheet
+
+
 ## BOM
 ### Frame
 
-1,00	Ramps Kit 1.4
+1x	Ramps Kit 1.4
 
-1,00	Ramps SD Card Reader
+1x	Ramps SD Card Reader
 
-2,00	10x10 Drag chain 2 Meters 
+2x	10x10 Drag chain 2 Meters 
 
-1,00	V-Slot 1200mm (horizontal carriage rail)
+1x	V-Slot 1200mm (horizontal carriage rail)
 
-2,00	Alu-Profile 2080 1200mm (Two vertical risers )
+2x	Alu-Profile 2080 1200mm (Two vertical risers )
 
-2,00	Alu-Profile 2080 1160mm (Lower brace, shelf for bar mat)
+2x	Alu-Profile 2080 1160mm (Lower brace, shelf for bar mat)
 
-1,00	Alu-Profile 2040, 1200mm (Horizontal rail for drag chain)
+1x	Alu-Profile 2040, 1200mm (Horizontal rail for drag chain)
 
-2,00	Alu-Profile 2040 600mm (Horizontal legs)
+2x	Alu-Profile 2040 600mm (Horizontal legs)
 
-1,00	V-Slot® NEMA 17 Linear Actuator Bundle 500mm
+1x	V-Slot® NEMA 17 Linear Actuator Bundle 500mm
 
-1,00	V-Slot Gantry Set , 20mm - 80mm (Universal)
+1x	V-Slot Gantry Set , 20mm - 80mm (Universal)
 
-1,00	Motor Mount Plate Nema17
+1x	Motor Mount Plate Nema17
 
-2,00	GT2-2m Timing Belt  (per Meter)
+2x	GT2-2m Timing Belt  (per Meter)
 
-2,00	Black Angle Corner Connector
+2x	Black Angle Corner Connector
 
-3,00	M5*8 Low Profile Screws (10 pcs/pack)
+3x	M5*8 Low Profile Screws (10 pcs/pack)
 
-1,00	M5*40 Low Profile Screws (10 pcs/pack)
+1x	M5*40 Low Profile Screws (10 pcs/pack)
 
-1,00	M5*25 Low Profile Screws (10 pcs/pack)
+1x	M5*25 Low Profile Screws (10 pcs/pack)
 
-1,00	3mm Aluminium Spacer
+1x	3mm Aluminium Spacer
 
-1,00	6mm Aluminium Spacer
+1x	6mm Aluminium Spacer
 
-1,00	Tee Nuts  M5 (10 pcs/pack)
+1x	Tee Nuts  M5 (10 pcs/pack)
 
-1,00	Drop in Tee Nuts  M5
+1x	Drop in Tee Nuts  M5
 
-1,00	Nylon Insert Hex Locknut M5 (10 pcs/pack)
+1x	Nylon Insert Hex Locknut M5 (10 pcs/pack)
 
-2,00	1250mm Slot Cover /Panel Holder
+2x	1250mm Slot Cover /Panel Holder
 
-2,00	Bar Mat
+2x	Bar Mat
 
 #### Control Box
 
-4,00	Alu-Profile 2020 530mm (All with 5mm threaded ends)
+4x	Alu-Profile 2020 530mm (All with 5mm threaded ends)
 
-5,00	Alu-Profile 2020 165mm (All with 5mm threaded ends)
+5x	Alu-Profile 2020 165mm (All with 5mm threaded ends)
 
-4,00	Alu-Profile 2020 130mm (All with 5mm threaded ends)
+4x	Alu-Profile 2020 130mm (All with 5mm threaded ends)
 
-8,00	Cube Corner
+8x	Cube Corner
 
-2,00	M5*15 Low Profile Screws (10 pcs/pack)
+2x	M5*15 Low Profile Screws (10 pcs/pack)
 
-1,00	Coin Acceptor 
+1x	Coin Acceptor 
 
-2,00	27x27 Illuminated Arcade Buttons (min lot 20 pcs)
+2x	27x27 Illuminated Arcade Buttons (min lot 20 pcs)
 
-1,00	22mm Emergency Stop Push Button Switch 12V DC LED Illuminated (or similar)
+1x	22mm Emergency Stop Push Button Switch 12V DC LED Illuminated (or similar)
 
-1,00	22mm Key Selector Switch
+1x	22mm Key Selector Switch
 
-1,00	Power Socket Switch IEC 320 C14
+1x	Power Socket Switch IEC 320 C14
 
-1,00	12v Power Supply, 150w (Part No. MS-150-12 or similar)
+1x	12v Power Supply, 150w (Part No. MS-150-12 or similar)
 
-1,00	 Ribbon cable to 18 pin connector 40CM long
+1x	 Ribbon cable to 18 pin connector 40CM long
 
