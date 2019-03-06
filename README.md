@@ -39,4 +39,4 @@ See [Build Guide](https://github.com/sexycyborg/BarBot/blob/master/BarBotDrwMk01
 
 ## BOM
 
-The BOM can be found in the Excel sheet with links where to order and the cost.
+The BOM can be found in the Excel sheet https://github.com/newbie71/BarBot/blob/master/BOM_Barbot_1.0.xlsx with links where to order and the cost.
