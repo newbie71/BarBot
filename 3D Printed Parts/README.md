@@ -1,7 +1,8 @@
 # Naomi Wu's BarBot
 An Automated Bartender powered by Arduino  
 
-All parts can be printed in PLA at 2mm layer height, 30% infill.
+All parts can be printed in PETG at 0.2mm layer height, 30% infill.
+
 
 ## Additional 3D Files Required:
 
